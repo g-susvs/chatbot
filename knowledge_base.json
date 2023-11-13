@@ -1,0 +1,351 @@
+{
+  "banned_words": [
+    "tonto",
+    "insultar",
+    "discriminacion",
+    "amenazo",
+    "ofensa",
+    "agresion",
+    "desprecio",
+    "injurias",
+    "racismo",
+    "sexismo",
+    "homofobia",
+    "xenofobia",
+    "acoso",
+    "difamao",
+    "maltrato",
+    "hostilidad",
+    "desprecio",
+    "blasfemo",
+    "odio",
+    "irrespetuoso",
+    "obsceno"
+  ],
+  "question": [
+    {
+      "question": "Hola",
+      "answer": "Hola! En qué puedo ayudarte?"
+    },
+    {
+      "question": "Tienes m\u00c3\u00a1s informaci\u00c3\u00b3n",
+      "answer": "Claro, \u00c2\u00bfqu\u00c3\u00a9 informaci\u00c3\u00b3n puedo proporcionarte?"
+    },
+    {
+      "question": "Cuanto es 2 + 2 ",
+      "answer": "La respuesta es 4"
+    },
+    {
+      "question": "2 + 2",
+      "answer": "Es 4"
+    },
+    {
+      "question": "Cual es la capital de Per\u00c3\u00ba?",
+      "answer": "Lima"
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1les son las carreras que ofrece el Instituto de Educaci\u00c3\u00b3n Superior Certus?",
+      "answer": "El Instituto de Educaci\u00c3\u00b3n Superior Certus ofrece carreras t\u00c3\u00a9cnicas y profesionales en \u00c3\u00a1reas como administraci\u00c3\u00b3n, contabilidad, marketing, dise\u00c3\u00b1o gr\u00c3\u00a1fico, entre otras."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1l es la duraci\u00c3\u00b3n de las carreras que ofrece el Instituto de Educaci\u00c3\u00b3n Superior Certus?",
+      "answer": "La duraci\u00c3\u00b3n de las carreras que ofrece el Instituto de Educaci\u00c3\u00b3n Superior Certus var\u00c3\u00ada seg\u00c3\u00ban la carrera. Por ejemplo, la carrera t\u00c3\u00a9cnica en administraci\u00c3\u00b3n tiene una duraci\u00c3\u00b3n de 3 semestres, mientras que la carrera profesional en dise\u00c3\u00b1o gr\u00c3\u00a1fico tiene una duraci\u00c3\u00b3n de 8 semestres."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1l es la modalidad de estudio que ofrece el Instituto de Educaci\u00c3\u00b3n Superior Certus?",
+      "answer": "El Instituto de Educaci\u00c3\u00b3n Superior Certus ofrece la modalidad presencial y semipresencial."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1l es la direcci\u00c3\u00b3n del Instituto de Educaci\u00c3\u00b3n Superior Certus?",
+      "answer": "La direcci\u00c3\u00b3n del Instituto de Educaci\u00c3\u00b3n Superior Certus es Av. Tom\u00c3\u00a1s Marsano 242 - Surquillo, Lima."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1l es el correo electr\u00c3\u00b3nico del Instituto de Educaci\u00c3\u00b3n Superior Certus?",
+      "answer": "El correo electr\u00c3\u00b3nico del Instituto de Educaci\u00c3\u00b3n Superior Certus es informes@certus.edu.pe."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1l es el n\u00c3\u00bamero telef\u00c3\u00b3nico del Instituto de Educaci\u00c3\u00b3n Superior Certus?",
+      "answer": "El n\u00c3\u00bamero telef\u00c3\u00b3nico del Instituto de Educaci\u00c3\u00b3n Superior Certus es (01) 241-12121."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1les son los requisitos para estudiar en el Instituto de Educaci\u00c3\u00b3n Superior Certus?",
+      "answer": "Los requisitos para estudiar en el Instituto de Educaci\u00c3\u00b3n Superior Certus var\u00c3\u00adan seg\u00c3\u00ban la carrera y la modalidad elegida. En general, se requiere haber culminado la educaci\u00c3\u00b3n secundaria y presentar los documentos requeridos por la instituci\u00c3\u00b3n."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1l es el costo de estudiar en el Instituto de Educaci\u00c3\u00b3n Superior Certus?",
+      "answer": "El costo de estudiar en el Instituto de Educaci\u00c3\u00b3n Superior Certus var\u00c3\u00ada seg\u00c3\u00ban la carrera y la modalidad elegida. Es recomendable contactar directamente con la instituci\u00c3\u00b3n para obtener informaci\u00c3\u00b3n actualizada sobre los costos."
+    },
+    {
+      "question": "\u00c2\u00bfEl Instituto de Educaci\u00c3\u00b3n Superior Certus cuenta con convenios internacionales?",
+      "answer": "S\u00c3\u00ad, el Instituto de Educaci\u00c3\u00b3n Superior Certus cuenta con convenios internacionales con instituciones educativas en pa\u00c3\u00adses como Espa\u00c3\u00b1a, M\u00c3\u00a9xico, Chile, entre otros."
+    },
+    {
+      "question": "\u00c2\u00bfEl Instituto de Educaci\u00c3\u00b3n Superior Certus cuenta con bolsa laboral para sus egresados?",
+      "answer": "S\u00c3\u00ad, el Instituto de Educaci\u00c3\u00b3n Superior Certus cuenta con una bolsa laboral para sus egresados."
+    },
+    {
+      "question": "\u00c2\u00bfEl Instituto de Educaci\u00c3\u00b3n Superior Certus cuenta con programas de becas?",
+      "answer": "S\u00c3\u00ad, el Instituto de Educaci\u00c3\u00b3n Superior Certus cuenta con programas de becas para sus estudiantes."
+    },
+    {
+      "question": "\u00c2\u00bfEl Instituto de Educaci\u00c3\u00b3n Superior Certus cuenta con programas de pr\u00c3\u00a1cticas preprofesionales?",
+      "answer": "S\u00c3\u00ad, el Instituto de Educaci\u00c3\u00b3n Superior Certus cuenta con programas de pr\u00c3\u00a1cticas preprofesionales para sus estudiantes."
+    },
+    {
+      "question": "\u00c2\u00bfEl Instituto de Educaci\u00c3\u00b3n Superior Certus cuenta con programas para estudios en el extranjero?",
+      "answer": "S\u00c3\u00ad, el Instituto de Educaci\u00c3\u00b3n Superior Certus cuenta con programas para estudios en el extranjero."
+    },
+    {
+      "question": "\u00c2\u00bfEl Instituto de Educaci\u00c3\u00b3n Superior Certus cuenta con programas para estudios virtuales?",
+      "answer": "S\u00c3\u00ad, el Instituto de Educaci\u00c3\u00b3n Superior Certus cuenta con programas para estudios virtuales."
+    },
+    {
+      "question": "\u00c2\u00bfEl Instituto de Educaci\u00c3\u00b3n Superior Certus cuenta con programas para estudios a distancia?",
+      "answer": "S\u00c3\u00ad, el Instituto de Educaci\u00c3\u00b3n Superior Certus cuenta con programas para estudios a distancia."
+    },
+    {
+      "question": "\u00c2\u00bfEl Instituto de Educaci\u00c3\u00b3n Superior Certus cuenta con programas para estudios semipresenciales?",
+      "answer": "S\u00c3\u00ad, el Instituto de Educaci\u00c3\u00b3n Superior Certus cuenta con programas para estudios semipresenciales."
+    },
+    {
+      "question": "\u00c2\u00bfD\u00c3\u00b3nde queda la sede Surco?",
+      "answer": "En el distrito de Santiago de Surco"
+    },
+    {
+      "question": "\u00c2\u00bfD\u00c3\u00b3nde queda la sede Arequipa?",
+      "answer": "En el departamento de arequipa dentro de la ciudad del mismo nombre"
+    },
+    {
+      "question": "\u00c2\u00bfD\u00c3\u00b3nde queda la sede Villa?",
+      "answer": "En el distrito de Villa el Salvador al sur de la ciudad de Lima"
+    },
+    {
+      "question": "\u00c2\u00bfQu\u00c3\u00a9 es el TAP?",
+      "answer": "Proyecto de Aplicaci\u00c3\u00b3n Profesional"
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1ntos a\u00c3\u00b1os de experiencia tiene el Instituto Certus?",
+      "answer": "El Instituto Certus tiene m\u00c3\u00a1s de 25 a\u00c3\u00b1os de experiencia[^1^][3]."
+    },
+    {
+      "question": "\u00c2\u00bfD\u00c3\u00b3nde se encuentra la sede principal del Instituto Certus?",
+      "answer": "La sede principal del Instituto Certus se encuentra en la ciudad de Lima[^2^][5]."
+    },
+    {
+      "question": "\u00c2\u00bfEn qu\u00c3\u00a9 otras ciudades tiene campus el Instituto Certus?",
+      "answer": "El Instituto Certus tiene campus en Callao, Ate, San Juan de Lurigancho, Villa, San Miguel, Surco, Arequipa y Chiclayo[^2^][5]."
+    },
+    {
+      "question": "\u00c2\u00bfQu\u00c3\u00a9 carreras ofrece el Instituto Certus?",
+      "answer": "El Instituto Certus ofrece carreras en Administraci\u00c3\u00b3n de Empresas, Administraci\u00c3\u00b3n de Negocios Internacionales, Marketing y Gesti\u00c3\u00b3n de Medios Digitales, Administraci\u00c3\u00b3n y Gesti\u00c3\u00b3n Comercial, Administraci\u00c3\u00b3n y Recursos Humanos, Contabilidad y Tributaci\u00c3\u00b3n, Administraci\u00c3\u00b3n Financiera y Banca Digital, Dise\u00c3\u00b1o y Desarrollo de Software, Administraci\u00c3\u00b3n de Sistemas, Publicidad y Dise\u00c3\u00b1o Gr\u00c3\u00a1fico[^3^][1]."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1l es la misi\u00c3\u00b3n del Instituto Certus?",
+      "answer": "La misi\u00c3\u00b3n del Instituto Certus es formar personas de excelencia que logren sus proyectos de vida[^4^][2]."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1l es la visi\u00c3\u00b3n del Instituto Certus?",
+      "answer": "La visi\u00c3\u00b3n del Instituto Certus es ser la comunidad educativa reconocida por la calidad de sus egresados gracias a un modelo acad\u00c3\u00a9mico de vanguardia[^4^][2]."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1les son los pilares del Instituto Certus?",
+      "answer": "Los pilares del Instituto Certus son Integridad, Pasi\u00c3\u00b3n, Respeto, Responsabilidad y Trabajo en equipo[^4^][2]."
+    },
+    {
+      "question": "\u00c2\u00bfQu\u00c3\u00a9 porcentaje de los egresados del Instituto Certus trabaja para una empresa formal?",
+      "answer": "9 de cada 10 egresados del Instituto Certus trabaja para una empresa formal[^3^][1]."
+    },
+    {
+      "question": "\u00c2\u00bfQu\u00c3\u00a9 porcentaje de los egresados de Administraci\u00c3\u00b3n Bancaria del Instituto Certus se encuentra trabajando en empresas l\u00c3\u00adderes?",
+      "answer": "El 66% de los egresados de Administraci\u00c3\u00b3n Bancaria del Instituto Certus se encuentra trabajando en empresas l\u00c3\u00adderes[^3^][1]."
+    },
+    {
+      "question": "\u00c2\u00bfEl Instituto Certus ofrece programas de becas para sus estudiantes?",
+      "answer": "S\u00c3\u00ad, el Instituto Certus ofrece programas de becas para sus estudiantes."
+    },
+    {
+      "question": "\u00c2\u00bfEl Instituto Certus cuenta con convenios internacionales con instituciones educativas en pa\u00c3\u00adses como Espa\u00c3\u00b1a, M\u00c3\u00a9xico y Chile?",
+      "answer": "S\u00c3\u00ad, el Instituto Certus cuenta con convenios internacionales con instituciones educativas en pa\u00c3\u00adses como Espa\u00c3\u00b1a, M\u00c3\u00a9xico y Chile."
+    },
+    {
+      "question": "\u00c2\u00bfEl Instituto Certus cuenta con una bolsa laboral para sus egresados?",
+      "answer": "S\u00c3\u00ad, el Instituto Certus cuenta con una bolsa laboral para sus egresados."
+    },
+    {
+      "question": "\u00c2\u00bfEl Instituto Certus ofrece programas de pr\u00c3\u00a1cticas preprofesionales?",
+      "answer": "S\u00c3\u00ad, el Instituto Certus ofrece programas de pr\u00c3\u00a1cticas preprofesionales para sus estudiantes."
+    },
+    {
+      "question": "\u00c2\u00bfEl Instituto Certus cuenta con programas para estudios en el extranjero?",
+      "answer": "S\u00c3\u00ad, el Instituto Certus cuenta con programas para estudios en el extranjero."
+    },
+    {
+      "question": "\u00c2\u00bfEl Instituto Certus ofrece capacitaciones a empresas?",
+      "answer": "S\u00c3\u00ad, el Instituto Certus ofrece capacitaciones a empresas."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1l es el correo electr\u00c3\u00b3nico del Instituto Certus?",
+      "answer": "El correo electr\u00c3\u00b3nico del Instituto Certus es informes@certus.edu.pe[^1^][2]."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1l es el n\u00c3\u00bamero telef\u00c3\u00b3nico del Instituto Certus?",
+      "answer": "El n\u00c3\u00bamero telef\u00c3\u00b3nico del Instituto Certus es (01) 20 20 900[^1^][2]."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1l es la direcci\u00c3\u00b3n del Instituto Certus?",
+      "answer": "La direcci\u00c3\u00b3n del Instituto Certus es Av. Tom\u00c3\u00a1s Marsano 242 - Surquillo, Lima[^1^][2]."
+    },
+    {
+      "question": "\u00c2\u00bfEl Instituto Certus cuenta con un portal de transparencia?",
+      "answer": "S\u00c3\u00ad, el Instituto Certus cuenta con un portal de transparencia[^1^][2]."
+    },
+    {
+      "question": "\u00c2\u00bfEl Instituto Certus cuenta con un libro de reclamaciones?",
+      "answer": "S\u00c3\u00ad, el Instituto Certus cuenta con un libro de reclamaciones[^1^][2]."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1les son las \u00c3\u00a1reas de estudio disponibles en el Instituto Certus?",
+      "answer": "El Instituto Certus ofrece carreras en \u00c3\u00a1reas como Administraci\u00c3\u00b3n de Empresas, Administraci\u00c3\u00b3n de Negocios Internacionales, Marketing y Gesti\u00c3\u00b3n de Medios Digitales, Administraci\u00c3\u00b3n y Gesti\u00c3\u00b3n Comercial, Administraci\u00c3\u00b3n y Recursos Humanos, Contabilidad y Tributaci\u00c3\u00b3n, Administraci\u00c3\u00b3n Financiera y Banca Digital, Dise\u00c3\u00b1o y Desarrollo de Software, Publicidad y Dise\u00c3\u00b1o Gr\u00c3\u00a1fico[^3^][1]."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1l es la misi\u00c3\u00b3n del Instituto Certus?",
+      "answer": "La misi\u00c3\u00b3n del Instituto Certus es formar personas de excelencia que logren sus proyectos de vida[^4^][2]."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1l es la visi\u00c3\u00b3n del Instituto Certus?",
+      "answer": "La visi\u00c3\u00b3n del Instituto Certus es ser la comunidad educativa reconocida por la calidad de sus egresados gracias a un modelo acad\u00c3\u00a9mico de vanguardia[^4^][2]."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1les son los valores fundamentales del Instituto Certus?",
+      "answer": "Los valores fundamentales del Instituto Certus son Integridad, Pasi\u00c3\u00b3n, Respeto, Responsabilidad y Trabajo en equipo[^4^][2]."
+    },
+    {
+      "question": "\u00c2\u00bfQu\u00c3\u00a9 porcentaje de los egresados del Instituto Certus trabaja para una empresa formal?",
+      "answer": "9 de cada 10 egresados del Instituto Certus trabaja para una empresa formal[^3^][1]."
+    },
+    {
+      "question": "\u00c2\u00bfD\u00c3\u00b3nde se encuentra la sede principal del Instituto Certus?",
+      "answer": "La sede principal del Instituto Certus se encuentra en la ciudad de Lima."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1ntos ciclos tiene una de sus carreras",
+      "answer": "Cada carrera tiene 6 ciclos"
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1l es la nota m\u00c3\u00adnima para aprobar en certus?",
+      "answer": "Ten presente que la nota m\u00c3\u00adnima para aprobar es 75, y en el caso de obtener una nota aprobatoria, esta reemplazar\u00c3\u00a1 tu promedio final."
+    },
+    {
+      "question": "\u00c2\u00bfQu\u00c3\u00a9 pasa si Desapruebas un curso en certus?",
+      "answer": "Ten presente que si desapruebas el examen, no habr\u00c3\u00a1 una nueva oportunidad de realizarlo y solo podr\u00c3\u00a1s estudiar el curso de ingl\u00c3\u00a9s en CERTUS o tramitar la convalidaci\u00c3\u00b3n de tu certificado en caso de elegir otro instituto."
+    },
+    {
+      "question": "\u00c2\u00bfQu\u00c3\u00a9 tan bueno es el instituto certus?",
+      "answer": "CERTUS se posicion\u00c3\u00b3 como el Instituto Tecnol\u00c3\u00b3gico Privado de preferencia de estudio por los j\u00c3\u00b3venes encuestados. Adem\u00c3\u00a1s como uno de los tres mejores institutos de Lima."
+    },
+    {
+      "question": "Cu\u00c3\u00a1nto tiempo dura un ciclo en certus",
+      "answer": "En Certus, adem\u00c3\u00a1s de las carreras profesionales que tienen una duraci\u00c3\u00b3n de tres a\u00c3\u00b1os, tambi\u00c3\u00a9n te ofrecemos cursos cortos que te capacitan para desempe\u00c3\u00b1arte en el campo profesional en un periodo de solo tres, cuatro o seis meses, dependiendo de curso que elijas."
+    },
+    {
+      "question": "\u00c2\u00bfQu\u00c3\u00a9 Universidad convalida con certus?",
+      "answer": "El 22 de enero CERTUS firm\u00c3\u00b3 un convenio de cooperaci\u00c3\u00b3n acad\u00c3\u00a9mica con la importante universidad de Colombia UNIMINUTO."
+    },
+    {
+      "question": "\u00c2\u00bfQu\u00c3\u00a9 pasa si jalo 3 veces el mismo curso?",
+      "answer": "Ser\u00c3\u00a1s separado de la carrera"
+    },
+    {
+      "question": "\u00c2\u00bfQu\u00c3\u00a9 t\u00c3\u00adtulo da certus?",
+      "answer": "T\u00c3\u00adtulo a nombre de la Naci\u00c3\u00b3n: Bachiller T\u00c3\u00a9cnico."
+    },
+    {
+      "question": "\u00c2\u00bfQu\u00c3\u00a9 significan las siglas certus?",
+      "answer": "La voz de origen latino certus significa decidido, resuelto, seguro. Ver: otras ra\u00c3\u00adces latinas. Esta no es una palabra castellana. Es un elemento radical que nos viene del lat\u00c3\u00adn y es usado en palabras compuestas, como cierto, certero y tambi\u00c3\u00a9n certificar"
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1ntos alumnos hay en certus?",
+      "answer": "22 millones y presenta una capacidad para m\u00c3\u00a1s de 9,000 alumnos, convirti\u00c3\u00a9ndose en la sede m\u00c3\u00a1s grande de la instituci\u00c3\u00b3n."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1ndo empiezan las clases en certus?",
+      "answer": "Los periodos acad\u00c3\u00a9micos inician en los meses de marzo (periodo 1) y agosto (periodo 2)."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1nto gana un administrador de empresas de certus?",
+      "answer": "Seg\u00c3\u00ban el portal Ponte en Carrera, un administrador egresado de Certus puede llegar percibir un sueldo entre los S/ 1,714 y S/ 2,156"
+    },
+    {
+      "question": "\u00c2\u00bfC\u00c3\u00b3mo hacer mi horario certus?",
+      "answer": "Accede al Portal Certus, ingresando a intranet.certus.edu.pe. Luego digita tu usuario y contrase\u00c3\u00b1a. Recuerda que si no has ingresado a nuestras plataformas en el mes de mayo, tu usuario y contrase\u00c3\u00b1a son tu n\u00c3\u00bamero de DNI. Elige la opci\u00c3\u00b3n Intranet Banner."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1ndo es el aniversario de certus?",
+      "answer": "Cada 24 de agosto, en Certus celebramos el compromiso de impulsar un mejor futuro para nuestro pa\u00c3\u00ads, a trav\u00c3\u00a9s de una educaci\u00c3\u00b3n superior t\u00c3\u00a9cnica de calidad"
+    },
+    {
+      "question": "\u00c2\u00bfD\u00c3\u00b3nde puedo ver mis notas?",
+      "answer": "Ingresando al intranet de Certus eligiendo el Plan Alumnos, ingresaras a ver Calificaciones, seleccionando la carrera perteneciente"
+    },
+    {
+      "question": "\u00c2\u00bfComo se divide las notas?",
+      "answer": "Las notas se dividen en 4 evidencias que definen la nota final"
+    },
+    {
+      "question": "\u00c2\u00bfD\u00c3\u00b3nde puedo encontrar las Rubricas y Lineaminetos en el Campus?",
+      "answer": "En cada curso existe un apartado llamado informacion en la que se encuentra la Carpeta DDS"
+    },
+    {
+      "question": "\u00c2\u00bfD\u00c3\u00b3nde puedo ver mis cursos en el Campus?",
+      "answer": "En el area personal"
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1l es la mejor carrera en certus?",
+      "answer": "CERTUS es considerado el mejor instituto privado de Lima para estudiar carreras de Negocios (Administraci\u00c3\u00b3n, Finanzas Contabilidad)."
+    },
+    {
+      "question": "\u00c2\u00bfD\u00c3\u00b3nde puedo ver mi cuenta de pagos?",
+      "answer": "Ingresando al portal de Certus encontraras un cuadro llamado Estado de cuenta donde veras futuros pagos y pagos atrasados"
+    },
+    {
+      "question": "\u00c2\u00bfD\u00c3\u00b3nde puedo ver mis asistencias?",
+      "answer": "Ingresando al portal de Certus encontraras un cuadro llamado Asistencias donde podras seleccionar los cursos a los que asistes"
+    },
+    {
+      "question": "\u00c2\u00bfEn que parte Certus me ayuda a buscar puestos de trabajo?",
+      "answer": "Ingresando a la Intranet de Certus exite la opcion de Conexion laboral en donde podras visualizar puestos de trabajo de distintas empresas relacionadas a tu carrera, lugar, etc"
+    },
+    {
+      "question": "\u00c2\u00bfQu\u00c3\u00a9 es un campus virtual?",
+      "answer": "Un campus virtual es una plataforma en l\u00c3\u00adnea que permite la administraci\u00c3\u00b3n y entrega de contenidos educativos de forma virtual."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1les son las ventajas de un campus virtual?",
+      "answer": "Las ventajas incluyen el acceso a la educaci\u00c3\u00b3n desde cualquier lugar, la flexibilidad de horarios y la posibilidad de acceder a recursos digitales."
+    },
+    {
+      "question": "\u00c2\u00bfC\u00c3\u00b3mo se accede a un campus virtual?",
+      "answer": "Para acceder a un campus virtual, los estudiantes suelen utilizar un nombre de usuario y contrase\u00c3\u00b1a proporcionados por la instituci\u00c3\u00b3n educativa."
+    },
+    {
+      "question": "\u00c2\u00bfQu\u00c3\u00a9 tipo de contenidos se encuentran en un campus virtual?",
+      "answer": "En un campus virtual, se pueden encontrar materiales de estudio, videos, actividades interactivas y foros de discusi\u00c3\u00b3n, entre otros recursos educativos."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1l es la importancia de la interacci\u00c3\u00b3n en un campus virtual?",
+      "answer": "La interacci\u00c3\u00b3n en un campus virtual es crucial para el aprendizaje, ya que permite a los estudiantes comunicarse con profesores y compa\u00c3\u00b1eros, resolver dudas y participar en discusiones acad\u00c3\u00a9micas."
+    },
+    {
+      "question": "\u00c2\u00bfQu\u00c3\u00a9 herramientas suelen incluirse en un campus virtual?",
+      "answer": "Un campus virtual puede incluir herramientas como calendarios acad\u00c3\u00a9micos, correo electr\u00c3\u00b3nico, chat en l\u00c3\u00adnea, videoconferencias y sistemas de evaluaci\u00c3\u00b3n."
+    },
+    {
+      "question": "\u00c2\u00bfC\u00c3\u00b3mo se realizan las evaluaciones en un campus virtual?",
+      "answer": "Las evaluaciones en un campus virtual pueden realizarse a trav\u00c3\u00a9s de cuestionarios en l\u00c3\u00adnea, trabajos escritos, ex\u00c3\u00a1menes virtuales y participaci\u00c3\u00b3n en foros, entre otros m\u00c3\u00a9todos."
+    },
+    {
+      "question": "\u00c2\u00bfEs posible obtener un t\u00c3\u00adtulo a trav\u00c3\u00a9s de un campus virtual?",
+      "answer": "S\u00c3\u00ad, muchas instituciones ofrecen programas acad\u00c3\u00a9micos completos en l\u00c3\u00adnea que permiten a los estudiantes obtener t\u00c3\u00adtulos y certificaciones."
+    }
+  ]
+}

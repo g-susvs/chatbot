@@ -1,0 +1,81 @@
+MDScreen:
+    name: "main"
+    bot_name: bot_name
+    MDFloatLayout:
+        md_bg_color: 1, 1, 1, 1
+        Image:
+            size_hint: 1, 1
+            source: "chatbot.jpg"
+            pos_hint: {"center_x": 0.5, "center_y": 0.8} 
+        MDLabel:
+            text: "Hola pe causa!"
+            font_name: "Poppins-SemiBold.ttf"
+            font_size: "35sp"
+            pos_hint: {"center_x": 0.5, "center_y": 0.58}
+            halign: "center"
+            theme_text_color: "Custom"
+            text_color: 53/255, 56/255, 60/255, 1
+        MDLabel:
+            text: "Tú Asistente Digital que te guiará a través de nuestros Productos & Servicios. Disponible 24x7"
+            size_hint_x: .9
+            size_hint_y: .2
+            font_name: "Poppins-SemiBold.ttf"
+            font_size: "18sp"
+            pos_hint: {"center_x": 0.5, "center_y": 0.45}
+            halign: "center"
+            theme_text_color: "Custom"
+            text_color: 53/255, 56/255, 60/255, 1
+        MDLabel:
+            text: "¡Leedme Primero!"
+            font_name: "Poppins-SemiBold.ttf"
+            font_size: "18sp"
+            pos_hint: {"center_x": .5, "center_y": .33} 
+            halign: "center"
+            underline: True
+            theme_text_color: "Custom"
+            text_color: 1, 170/255, 23/255, 1
+        MDFloatLayout:
+            size_hint: .85, .08
+            pos_hint: {"center_x": .5, "center_y": .22}
+            canvas:
+                Color:
+                    rgb: (238/255, 238/255, 238/255, 1)
+                RoundedRectangle:
+                    size: self.size
+                    pos: self.pos
+                    radius: [22,22,22,22]
+            TextInput:
+                id: bot_name
+                hint_text: "Chatbot Name"
+                size_hint: 1, None
+                pos_hint: {"center_x": .5, "center_y": .5}
+                font_size: "18sp"
+                height: self.minimum_height
+                foreground_color: 1, 170/255, 23/255, 1
+                background_color: 0,0,0,0
+                padding: 15
+                font_name: "Poppins-SemiBold.ttf"
+        MDFloatLayout:
+            size_hint: .45, .08
+            pos_hint: {"center_x": .5, "center_y": .1}
+            canvas:
+                Color:
+                    rgb: (1, 170/255, 23/255, 1)
+                RoundedRectangle:
+                    size: self.size
+                    pos: self.pos
+                    radius: [22,22,22,22]
+        Button:
+            text: ""
+            size_hint: .45, .08
+            pos_hint: {"center_x": .5, "center_y": .1}
+            background_color: 0,0,0,0
+            on_release:
+                app.bot_name()
+        MDLabel:
+            text: "Empecemos!!"
+            halign: "center"
+            pos_hint: {"center_y": .1}
+            font_name: "Poppins-SemiBold.ttf"
+            font_size: "18sp"
+            color: 1,1,1,1
