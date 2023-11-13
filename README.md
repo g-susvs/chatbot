@@ -1,5 +1,14 @@
 # Proyecto chatbot
 
+Dependencias:
+
+```sh
+pip install pandas
+pip install numpy
+pip install kivymd
+pip install kivy
+```
+
 Para probar el chatbot, puedes realizar algunas de las siguientes preguntas:
 
 - ¿Dónde puedo ver mis cursos?
