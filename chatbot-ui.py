@@ -199,7 +199,7 @@ class ChatBot(MDApp):
         hasBannedWords: bool = False
         
         for word in value.split():
-            result = difflib.get_close_matches(word, bannedWords, n=1)
+            result = difflib.get_close_matches(word, bannedWords, n=1,  cutoff=0.8)
             if result:
                 hasBannedWords = True
         
@@ -215,9 +215,27 @@ class ChatBot(MDApp):
         question = self.new_question
         response = ''
         if value.lower() != 'omitir':
-            self.knowledge_base["question"].append({"question": question, "answer": value})
-            save_knowledge_base('knowledge_base.json', self.knowledge_base)
-            response = '¡Gracias! ¡He aprendido algo nuevo!'
+            #! Buscar palabras baneadas
+            kb = load_knowledge_base('knowledge_base.json')
+            bannedWords = kb["banned_words"]
+            hasBannedWords: bool = False
+
+            for word in value.split():
+                result = difflib.get_close_matches(word, bannedWords, n=1,  cutoff=0.8)
+                if result:
+                    hasBannedWords = True
+                    
+            if hasBannedWords:
+                error_message = 'No puedo generar insultos ni contenido ofensivo. ¿En qué más puedo ayudarte?'
+                self.active_banned_words = True
+                screen_manager.get_screen('chats').chat_list.add_widget(Response(text=error_message, size_hint_x=.75))
+                hasBannedWords = False
+                
+            else:
+                self.knowledge_base["question"].append({"question": question, "answer": value})
+                save_knowledge_base('knowledge_base.json', self.knowledge_base)
+                response = '¡Gracias! ¡He aprendido algo nuevo!'
+                hasBannedWords = False
         
         return response
 
